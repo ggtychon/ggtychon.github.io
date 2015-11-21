@@ -1,0 +1,13 @@
+---
+title: MAL
+subtitle: Strategic Planning
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: MAL_01.jpg
+thumbnail: MAL_01_thumbnail.jpg
+alt: image-alt
+category: Information Management
+description: Enterprise level information management plan.
+
+---

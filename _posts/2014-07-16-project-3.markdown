@@ -1,0 +1,13 @@
+---
+title: Flow
+subtitle: Business Analysis
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: RIMB_01.jpg
+thumbnail: RIMB_01_thumbnail.jpg
+alt: image-alt
+category: Project Management
+description: Business analysis and information flows among business units.
+
+---

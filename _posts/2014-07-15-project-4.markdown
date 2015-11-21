@@ -1,0 +1,13 @@
+---
+title: Agrasid
+subtitle: Soil Information
+layout: default
+modal-id: 4
+date: 2014-07-18
+img: Agrasid-2-2.jpg
+thumbnail: Agrasid-2-2_thumbnail.jpg
+alt: image-alt
+category: Application Development (Web, Desktop)
+description: Access to soil information via both desktop and web.
+
+---

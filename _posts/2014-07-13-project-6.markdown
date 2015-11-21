@@ -1,0 +1,13 @@
+---
+title: LSRS
+subtitle: Decision Support System
+layout: default
+modal-id: 6
+date: 2014-07-18
+img: soil_01.jpg
+thumbnail: soil_01_thumbnail.jpg
+alt: image-alt
+category: Application Development
+description: Spatial decision support system to determine land suitability rating given climate, soil, and landform information.
+
+---

@@ -1,0 +1,13 @@
+---
+title: Budget
+subtitle: Data Visualization
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: COE_2013_Budget02.jpg
+thumbnail: COE_2013_Budget02_thumbnail.jpg
+alt: image-alt
+category: Application Development (Web)
+description: Dynamic and interactive web application illustrating proposed financial expenditures.
+
+---
