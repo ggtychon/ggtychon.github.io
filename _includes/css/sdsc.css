@@ -1,3 +1,4 @@
+
 /*!
  * SDSC custom and override CSS.
  */
@@ -6,5 +7,9 @@
 
  .fa-stronger2 {
     color: black;
+}
+body{
+   font-family: 'Open Sans', sans-serif;
+   
 }
 
