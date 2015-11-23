@@ -8,6 +8,6 @@ img: COE_2013_Budget02.jpg
 thumbnail: COE_2013_Budget02_thumbnail.jpg
 alt: image-alt
 category: Application Development (Web)
-description: Dynamic and interactive web application illustrating proposed financial expenditures.
+description: Dynamic and interactive web application illustrating proposed financial expenditures. Floating spheres denoting expenditures. Spheres float and group based on user specification.
 
 ---
